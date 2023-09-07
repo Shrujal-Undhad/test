@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shrujal Undhad
-Skills: JS, python , c , java
-Email: shrujalundhad@gmail.com
-{{/user}}
